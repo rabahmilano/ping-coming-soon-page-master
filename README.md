@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Github - [Rabha ABED](https://github.com/rabahmilano)
+- Github - [Rabah ABED](https://github.com/rabahmilano)
 - Frontend Mentor - [@rabahmilano](https://www.frontendmentor.io/profile/rabahmilano)
 - Codepen - [@rabahmilano](https://codepen.io/rabahmilano)
